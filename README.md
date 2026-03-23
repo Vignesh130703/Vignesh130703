@@ -19,7 +19,7 @@
 * 🚀 Focused on **SaaS + AI**
 * ⚡ Love **performance + clean UI**
 * 🧩 Turning ideas → scalable apps
-* 📫 [your-email@gmail.com](mailto:your-email@gmail.com)
+* 📫 vickyvignesh13202@gmail.com(mailto:vickyvignesh132002@gmail.com)
 
 ---
 
@@ -53,9 +53,7 @@ Next.js • Supabase • Realtime DB
 * Smart matching algorithm
 * Admin dashboard
 
-### 🌐 Live
 
-https://your-demo-link.com
 
 ### 💻 Repo
 
@@ -83,9 +81,7 @@ Create a **high-end personal brand website**
 
 Next.js • Tailwind • Framer Motion
 
-### 🌐 Live
 
-https://your-portfolio-link.com
 
 <p align="center">
   <img src="https://via.placeholder.com/900x400?text=Portfolio+Preview" />
@@ -93,23 +89,7 @@ https://your-portfolio-link.com
 
 ---
 
-## 💌 Wedding Invite Website
 
-### 📌 Idea
-
-Digital invite with **premium traditional feel**
-
-### 💡 Features
-
-* Animated sections
-* Cultural design
-* Mobile optimized
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x400?text=Wedding+Website" />
-</p>
-
----
 
 # 📊 GitHub Analytics
 

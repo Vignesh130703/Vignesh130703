@@ -1,110 +1,247 @@
 <!-- 🔥 CUSTOM BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vignesh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vignesh%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Vignesh</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Builder | SaaS Creator</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer • AI Builder • SaaS Creator
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Building+Real+World+Projects;SaaS+%7C+AI+%7C+Next.js;Clean+UI+%2B+Performance;Always+Shipping+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Real-World+Systems+⚡;SaaS+%7C+AI+%7C+Automation+🚀;Ctrl%2BC+%2B+Ctrl%2BV+Engineer+😎;Turning+Ideas+Into+Scalable+Products;Trying+To+Become+Friends+With+Production+Servers..." />
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-* 🎓 Student building **real-world products**
-* 🚀 Focused on **SaaS + AI**
-* ⚡ Love **performance + clean UI**
-* 🧩 Turning ideas → scalable apps
-* 📫 vickyvignesh13202@gmail.com(mailto:vickyvignesh132002@gmail.com)
+- 🎓 Computer Science student building real-world systems  
+- 🚀 Focused on SaaS, AI, automation & scalable products  
+- ⚡ Love fast UIs, realtime systems & clean architecture  
+- 🧩 Turning random ideas into actual products  
+- ☕ Debugging one issue and creating three new ones professionally  
+- 📫 **vickyvignesh132002@gmail.com**
 
 ---
 
-## ⚒️ Tech Stack
+# 💀 Developer Lore
+
+```js
+while(alive){
+   eat();
+   code();
+   google();
+   stackoverflow();
+   ctrlC();
+   ctrlV();
+   pray();
+}
+```
+
+### 😭 Fun Fact
+
+I'm not a “from scratch” developer.  
+I'm a:
+
+# ⚡ Ctrl + C → Ctrl + V Engineer
+
+But the real skill is:
+
+```txt
+Finding the correct Stack Overflow answer in 7 seconds.
+```
+
+and somehow making everything work together without crashing production 😎
+
+---
+
+# ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,supabase,vercel,git,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgres,supabase,firebase,python,django,pytorch,opencv,git,github,docker,vercel,cloudflare,postman,vscode" />
 </p>
 
 ---
 
-# 🚀 PROJECT CASE STUDIES (🔥 THIS IS THE GAME CHANGER)
+# 🚀 PROJECT CASE STUDIES
 
-## 🧠 Zomato Food Rescue SaaS
+---
+
+# 🍱 Zomato Rescue SaaS
 
 ### 📌 Problem
-
-Food gets wasted daily while people go hungry.
+Users miss hidden food rescue deals before they disappear.
 
 ### 💡 Solution
-
-Built a platform that connects restaurants with NGOs using **real-time matching system**.
+Built a realtime food rescue intelligence platform with Telegram automation and smart scoring.
 
 ### ⚙️ Tech
-
-Next.js • Supabase • Realtime DB
+Next.js • Cloudflare Workers • D1 • Telegram Bot API
 
 ### 🚀 Features
+- ⚡ Realtime deal detection
+- 🤖 Telegram alerts
+- 🧠 Hot score engine
+- 🎯 Smart filters
+- ☁️ Edge infrastructure
 
-* Live food availability tracking
-* Smart matching algorithm
-* Admin dashboard
+---
 
+# 🏸 LoveALL — Badminton Tournament OS
 
+### 📌 Problem
+Managing badminton tournaments manually becomes chaotic.
 
-### 💻 Repo
+### 💡 Solution
+Built a complete tournament operating system with realtime workflows.
 
-https://github.com/YOUR_USERNAME/zomato_food_rescue
+### 🚀 Features
+- 📡 Live scoring
+- 📱 QR workflows
+- 🎯 Match automation
+- 🖥️ Public scoreboard
+- 👥 Multi-role management
+
+---
+
+# 💻 PC Forge — Smart PC Building Platform
+
+### 📌 Problem
+PC building requires checking compatibility, prices and reviews manually.
+
+### 💡 Solution
+Built an AI-powered PC building ecosystem with community features.
+
+### 🚀 Features
+- 🧠 AI recommendations
+- 💰 Price comparison
+- 📊 Price tracking
+- 👥 Community platform
+- 🎮 FPS estimation
+
+---
+
+# 🏎️ F1 Live Telemetry Dashboard
+
+### 📌 Problem
+F1 telemetry systems are difficult for normal users to visualize.
+
+### 💡 Solution
+Built a realtime telemetry dashboard inspired by race engineering systems.
+
+### 🚀 Features
+- 📡 Live telemetry
+- 🗺️ Track visualization
+- 🛞 Tyre strategy analytics
+- 🌦️ Weather intelligence
+- 📊 Driver comparisons
+
+---
+
+# 🌍 StoreRadar — Dark Store Intelligence Platform
+
+### 📌 Problem
+Nobody understands the hidden infrastructure behind 10-minute delivery.
+
+### 💡 Solution
+Built an automated analytics platform mapping dark stores across India.
+
+### 🚀 Features
+- 🗺️ Interactive maps
+- 📊 Historical analytics
+- 🤖 Automation workflows
+- 📡 Telegram alerts
+- ⚡ Self-healing pipelines
+
+---
+
+# 🧠 Deepfake Video Detection System
+
+### 📌 Problem
+Manipulated videos are becoming difficult to identify.
+
+### 💡 Solution
+Built an AI-powered deepfake detection system using temporal analysis.
+
+### 🚀 Features
+- 🎥 Frame analysis
+- 👤 Face extraction pipeline
+- 🧠 ResNeXt50 + LSTM
+- 🔍 Temporal inconsistency detection
+- 📊 Deepfake frame identification
+
+---
+
+# 📚 Student Data Entry Automation
+
+### 📌 Problem
+Teachers spend hours manually entering student data into portals.
+
+### 💡 Solution
+Built an automation workflow that reads Excel/CSV files and auto-fills institutional portals.
+
+### 🚀 Features
+- 📄 Excel automation
+- 🌐 Browser automation
+- ⚡ Bulk data entry
+- 🛡️ Reduced human errors
+- 🤖 Selenium workflows
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x400?text=SaaS+Dashboard+Preview" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vignesh130703&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh130703&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎨 Premium Portfolio Website
+# 📈 Current Focus
 
-### 📌 Goal
-
-Create a **high-end personal brand website**
-
-### 💡 Highlights
-
-* Smooth animations
-* Clean modern UI
-* Fully responsive
-
-### ⚙️ Tech
-
-Next.js • Tailwind • Framer Motion
-
-
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x400?text=Portfolio+Preview" />
-</p>
-
----
-
-
-
-
+- 🧠 AI-powered systems
+- ⚡ Realtime SaaS products
+- ☁️ Cloud & edge infrastructure
+- 🤖 Automation workflows
+- 📊 Scalable backend systems
 
 ---
 
 # 💬 Dev Mindset
 
 <p align="center">
-  <i>"Build fast. Learn faster. Stay consistent."</i>
+
+> “Build fast. Break things. Fix them faster.” ⚡
+
+> “If it works on localhost, confidence level = 100%.” 😭
+
+> “My code has two modes:
+> 1. doesn't work  
+> 2. works and I don’t know why”
+
 </p>
 
 ---
 
-<!-- 🔥 FOOTER BANNER -->
+# 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  
+📧 **vickyvignesh132002@gmail.com**
+
+🌐 Building cool stuff one bug at a time ⚡
+
+</p>
+
+---
+
+<!-- 🔥 FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer"/>
 </p>

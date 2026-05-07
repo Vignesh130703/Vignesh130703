@@ -6,9 +6,7 @@
 
 <h1 align="center">Hey 👋, I'm Vignesh</h1>
 
-<h3 align="center">
-🚀 Full Stack Developer • AI Builder • SaaS Creator
-</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Real-World+Systems+⚡;SaaS+%7C+AI+%7C+Automation+🚀;Ctrl%2BC+%2B+Ctrl%2BV+Engineer+😎;Turning+Ideas+Into+Scalable+Products;Trying+To+Become+Friends+With+Production+Servers..." />
@@ -32,39 +30,29 @@
 ```js
 while(alive){
    eat();
-   code();
-   google();
-   stackoverflow();
-   ctrlC();
-   ctrlV();
    pray();
+   code();
+   ctrl+C();
+   ctrl+V();
+   play();
+   sleep();
+   
 }
 ```
 
 ### 😭 Fun Fact
 
-I'm not a “from scratch” developer.  
+  
 I'm a:
 
 # ⚡ Ctrl + C → Ctrl + V Engineer
 
 But the real skill is:
 
-```txt
-Finding the correct Stack Overflow answer in 7 seconds.
-```
 
-and somehow making everything work together without crashing production 😎
 
 ---
 
-# ⚒️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgres,supabase,firebase,python,django,pytorch,opencv,git,github,docker,vercel,cloudflare,postman,vscode" />
-</p>
-
----
 
 # 🚀 PROJECT CASE STUDIES
 
@@ -192,15 +180,6 @@ Built an automation workflow that reads Excel/CSV files and auto-fills instituti
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vignesh130703&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh130703&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 # 📈 Current Focus
 
@@ -210,21 +189,6 @@ Built an automation workflow that reads Excel/CSV files and auto-fills instituti
 - 🤖 Automation workflows
 - 📊 Scalable backend systems
 
----
-
-# 💬 Dev Mindset
-
-<p align="center">
-
-> “Build fast. Break things. Fix them faster.” ⚡
-
-> “If it works on localhost, confidence level = 100%.” 😭
-
-> “My code has two modes:
-> 1. doesn't work  
-> 2. works and I don’t know why”
-
-</p>
 
 ---
 
